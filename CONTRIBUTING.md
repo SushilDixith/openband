@@ -5,7 +5,7 @@ Thank you for helping build **OpenBand** — an open-signal, archival multi-plat
 ## Development Setup
 
 ```bash
-git clone https://github.com/<your-username>/openband.git
+git clone https://github.com/SushilDixith/openband
 cd openband
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
