@@ -3,8 +3,8 @@
 ```text
  ╭───╮ ┌───╮ ┌───╴ ┌─╮ ╷ ┌───╮ ╭───╮ ┌─╮ ╷ ┌───╮ 
  │   │ ├───╯ ├───╴ │ │ │ ├───┤ ├───┤ │ │ │ │   │ 
- ╰───╯ │     └───╴ ╵ ╰─╯ └───╯ │   │ ╵ ╰─╯ └───╯ 
-      A MOVEMENT FOR FREE MEDIA  ·  YOUR MEDIA. YOUR TERMS.
+ ╰───╯ │     └───╴ ╵ ╰─╯ └───╯ │   │ ╵ ╰─╯ └───╯
+ A MOVEMENT FOR FREE MEDIA  ·  YOUR MEDIA. YOUR TERMS.
 ```
 
 **OpenBand** is an open-signal, archival multi-platform terminal interface (`TUI`) built around a larger idea: **putting media access, portability, and long-term stewardship back into the hands of the people who experience it.**
