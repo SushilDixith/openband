@@ -18,11 +18,11 @@ It unites `yt-dlp`, `ffmpeg`, and an API-key-free Spotify/social resolver inside
 ### Install Globally as a Command-Line Tool (`pipx` / `uv` / `pip`)
 
 ```bash
-# Recommended: isolated global CLI install via pipx or uv
-pipx install .
+# Recommended: isolated global CLI install via pipx or uv from GitHub
+pipx install git+[https://github.com/SushilDixith/openband.git](https://github.com/SushilDixith/openband.git)
 # or:
-uv tool install .
-# or editable development install:
+uv tool install git+[https://github.com/SushilDixith/openband.git](https://github.com/SushilDixith/openband.git)
+# or local editable install from source:
 pip install -e .
 ```
 
