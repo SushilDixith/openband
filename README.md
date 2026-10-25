@@ -3,7 +3,7 @@
 ```text
    ╭───╮ ┌───╮ ┌───╴ ┌─╮ ╷ ┌───╮ ╭───╮ ┌─╮ ╷ ┌───╮ 
    │   │ ├───╯ ├───╴ │ │ │ ├───┤ ├───┤ │ │ │ │   │ 
-   ╰───╯ │     └───╴ ╵ ╰─╯ └───╯ │   │ ╵ ╰─╯ └───╯
+   ╰───╯ │     └───╴ ╵ ╰─╯ └───╯ │   │ ╵ ╰─╯ └───╯ 
  A MOVEMENT FOR FREE MEDIA  ·  YOUR MEDIA. YOUR TERMS.
 ```
 
@@ -45,40 +45,7 @@ openband --export-catalog                     # Export local Commons Catalog to 
 
 ---
 
-## 2. Terminal Interface Preview (Operational Desk)
-
-```text
-((●)) O P E N B A N D  ·  YOUR MEDIA. YOUR TERMS.      YT-DLP 2026.x · FFMPEG ● OK · JS ● DENO · PLATFORMS ● YT·IG·X·FB·SP
-▸ Welcome to OpenBand, operator  ·  good evening (session #4)  ·  LESS LOCK-IN. MORE FREEDOM.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-╭─ ((●)) SIGNAL ACQUISITION DESK ──────────────────────────╮  ╭─ ((●)) PLATE 02/06 · THE OPEN SPAN ──────────────────────╮
-│ URL       https://www.instagram.com/reel/C8abc123_/      │  │          +                .___.        .___.             │
-│ OUT       ~/Archive/Commons                              │  │               .|.         |III|________|III|             │
-│                                                          │  │              |:::|       /|===|[======]|===|\            │
-│ SCOPE     (•) SINGLE   ( ) PLAYLIST  [X] ARCHIVE [ ] SPLIT│  │        .__.  |:::|      / |   |        |   | \           │
-│ MODE      (•) VIDEO    ( ) AUDIO                         │  │     .__|::|__|:::|_____/  |   |        |   |             │
-│ VIDEO     [H.264 ▾]    RES [1080P ▾] [ ] 60FPS           │  │   ==|::|::|::|:::|====/===|===|========|===|==           │
-│                                                          │  │     ~~~~~~~~~~~~~~~~~/~~~~|~~~|~~~~~~~~|~~~|~~           │
-│ ▸ F7  subs · cookies · range · limit · proxy  · Alt+1..4 │  │   "The internet was built to connect, not to exclude."   │
-╰──────────────────────────────── DETECTED: INSTAGRAM · REEL╯  ╰─────────────────────────── LESS LOCK-IN. MORE FREEDOM. ──╯
-╭─ OUTPUT PREVIEW ─────────────────────────────────────────╮  ╭─ FIELD GUIDE ────────────────────────────────────────────╮
-│ Behind the scenes (OpenBand Collective (@openband) · 0:42│  │ INSTAGRAM LINK · REEL / POST / STORY                     │
-│ ▸ MP4 · H.264 · 1080p · 30fps  +  AAC  [+ARCHIVE]        │  │ Supports public Reels, video posts & authorized Stories. │
-│   ≈ 14 MB  ·  plays: everything                          │  │ $ yt-dlp --no-playlist -f 'bv*[height<=1080]...'         │
-╰──────────────────────────────── SCANNED (INSTAGRAM) · F3 ╯  ╰─────────────────────────────────── TOPIC: URL · F10 CLI ─╯
-SIGNAL    ▐████████████████████████████░░░░░░░░░░▌  72%  ((●)) 1/1  4.8 MiB/s
-╭─ TRANSMISSION & ARCHIVE LOG ───────────────────────────────────────────────────────────────────────────────────────────╮
-│ ✓ [INSTAGRAM] Behind the scenes at the archive                                                                         │
-│ · creator: OpenBand Collective (@openband.collective)   ·   source: https://www.instagram.com/reel/C8abc123_/          │
-│ ✓ archived · 1 file · 14 MB · user-owned copy                                                                          │
-│ · provenance sidecar saved: Behind the scenes at the archive.nfo                                                       │
-╰─────────────────────────────────────────────────────────────────────────────────────────────────── REAL-TIME TELEMETRY ╯
- F2 SCAN  F3 FORMATS  F4 CATALOG  F5 DOWNLOAD  ESC CANCEL  F6 OPEN  F7 OPTIONS  F8 PLATE  F10 CLI  ^G PASTE  ^B BATCH  ^Q
-```
-
----
-
-## 3. Supported Platforms & Archival Capabilities
+## 2. Supported Platforms & Archival Capabilities
 
 | Platform | Supported Media Types | Automatic Behavior & Archival Features |
 | :--- | :--- | :--- |
@@ -90,7 +57,7 @@ SIGNAL    ▐██████████████████████�
 
 ---
 
-## 4. Deeper Archival & Local Library Stewardship
+## 3. Deeper Archival & Local Library Stewardship
 
 OpenBand is designed not just to download files, but to build a **self-contained, portable personal library**:
 
@@ -110,7 +77,7 @@ OpenBand is designed not just to download files, but to build a **self-contained
 
 ---
 
-## 5. Keyboard Shortcuts & Presets
+## 4. Keyboard Shortcuts & Presets
 
 | Key | Action |
 | :--- | :--- |
