@@ -1,4 +1,4 @@
-# ((●)) OPENBAND — A Movement for Free Media
+# ((●)) OPENBAND
 
 ```text
    ╭───╮ ┌───╮ ┌───╴ ┌─╮ ╷ ┌───╮ ╭───╮ ┌─╮ ╷ ┌───╮ 
