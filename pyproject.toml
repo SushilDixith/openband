@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openband"
+version = "1.2.0"
+description = "OpenBand — A Movement for Free Media. Archival multi-platform TUI for YouTube, Spotify, Instagram, X (Twitter), and Facebook."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "OpenBand Collective"}
+]
+keywords = ["media", "archival", "tui", "textual", "yt-dlp", "spotify", "youtube", "instagram", "twitter", "facebook", "commons"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Multimedia :: Sound/Audio",
+    "Topic :: Multimedia :: Video",
+    "Topic :: System :: Archiving",
+]
+dependencies = [
+    "textual>=0.60.0",
+    "yt-dlp>=2024.04.09",
+    "rich>=13.0.0",
+]
+
+[project.optional-dependencies]
+spotify = [
+    "spotdl>=4.2.0",
+]
+
+[project.scripts]
+openband = "ytdl.app:main"
+ytdl-tui = "ytdl.app:main"
+
+[tool.setuptools]
+packages = ["ytdl"]
+py-modules = ["openband", "ytdl_tui"]
