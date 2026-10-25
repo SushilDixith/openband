@@ -1,0 +1,18 @@
+# OpenBand Sample Batch Queue (urls.txt)
+# Lines starting with # are ignored.
+# Run with:  openband --batch-file examples/urls.txt --preset 2
+
+# YouTube Video / Documentary
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+# Spotify Track / Podcast Episode
+https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC
+
+# Instagram Reel / Post
+https://www.instagram.com/reel/C8abc123_/
+
+# X (Twitter) Video Status
+https://x.com/openband/status/18450011223344
+
+# Facebook Watch
+https://fb.watch/rTyUiOp12/
